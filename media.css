@@ -1,0 +1,35 @@
+@media (max-width: 768px) {
+    nav {
+        display: none;
+    }
+    .mobile-slide-icon {
+        display: inline-block;
+    }
+    .middle-image-sect {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .textarea {
+        flex-direction: column;
+        align-items: center;
+        row-gap: 40px;
+    }
+    .extra-btn-box1 {
+        margin-top: 70px;
+        margin-bottom: 40px;
+    }
+    .paragraph-container {
+        padding-top: 40px;
+    }
+    .middle-image {
+        padding-top: 50px;
+    }
+    .profile-photos-container {
+        width: 85%;
+    }
+    .project-recents-body {
+        grid-template-columns: repeat(1, 1fr);
+        align-items: center;
+        row-gap: 40px;
+    }
+}
