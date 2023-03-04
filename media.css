@@ -32,4 +32,14 @@
         align-items: center;
         row-gap: 40px;
     }
+
+    /* footer responsive */
+
+    .footer-block1 {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .footer-block1-part h4 {
+        padding-top: 20px;
+        padding-bottom: 0px;
+    }
 }
