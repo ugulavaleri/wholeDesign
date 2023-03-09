@@ -1,1 +1,3 @@
-# Extra-homework-11
+whole page (without javascript).
+
+Responsiveness of the footer needs to be refined.
